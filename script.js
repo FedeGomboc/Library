@@ -1,0 +1,9 @@
+let myLibrary = []
+
+Book = () => {
+
+}
+
+addBookToLibrary = () => {
+
+}
